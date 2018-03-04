@@ -1,0 +1,36 @@
+body { padding-top: 70px; }
+nav {
+        font-family: 'Poppins', serif;
+        font-size: 20px;
+      }
+h3{
+    font-family: 'Poppins', serif;
+    font-size: 30px;
+    
+}
+
+#thumb1{
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+   
+}
+
+#id1{
+    border-color: darkgrey; 
+}
+h1{
+    text-align: center;
+}
+#thumb1{
+    
+}
+#thumb2{
+    
+}
+#thumb3{
+    
+}
+#thumb3{
+    
+}
